@@ -1,0 +1,374 @@
+in the interval
+in the interval
+in the timeout
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\global.js"
+<ref *1> Object [global] {
+  global: [Circular *1],
+  clearImmediate: [Function: clearImmediate],
+  setImmediate: [Function: setImmediate] {
+    [Symbol(nodejs.util.promisify.custom)]: [Getter]
+  },
+  clearInterval: [Function: clearInterval],
+  clearTimeout: [Function: clearTimeout],
+  setInterval: [Function: setInterval],
+  setTimeout: [Function: setTimeout] {
+    [Symbol(nodejs.util.promisify.custom)]: [Getter]
+  },
+  queueMicrotask: [Function: queueMicrotask],
+  structuredClone: [Function: structuredClone],
+  atob: [Getter/Setter],
+  btoa: [Getter/Setter],
+  performance: [Getter/Setter],
+  fetch: [Function: value],
+  crypto: [Getter]
+}
+in the interval
+in the interval
+in the timeout
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+in the interval
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\global.js"
+c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS
+c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\global.js
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\global.js"
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\demo.js"
+[ 'Eric', 'Mwendwa', 'Linet', 'Emmanuel', 'Grace' ]
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\modules.js"
+[ 'Eric', 'Mwendwa', 'Linet', 'Emmanuel', 'Grace' ]
+{}
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\modules.js"
+[ 'Eric', 'Mwendwa', 'Linet', 'Emmanuel', 'Grace' ]
+c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\modules.js:3
+console.log(...xyz)
+               ^
+
+TypeError: Spread syntax requires ...iterable[Symbol.iterator] to be a function
+    at Object.<anonymous> (c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\modules.js:3:9)
+    at Module._compile (node:internal/modules/cjs/loader:1358:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1416:10)
+    at Module.load (node:internal/modules/cjs/loader:1208:32)
+    at Module._load (node:internal/modules/cjs/loader:1024:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.15.1
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\modules.js"
+[ 'Eric', 'Mwendwa', 'Linet', 'Emmanuel', 'Grace' ]
+[ 'Eric', 'Mwendwa', 'Linet', 'Emmanuel', 'Grace' ]
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\modules.js"
+[ 'Eric', 'Mwendwa', 'Linet', 'Emmanuel', 'Grace' ]
+undefined
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\modules.js"
+[ 'Eric', 'Mwendwa', 'Linet', 'Emmanuel', 'Grace' ]
+undefined
+{
+  arch: [Function: arch] {
+    [Symbol(Symbol.toPrimitive)]: [Function (anonymous)]
+  },
+  availableParallelism: [Function: getAvailableParallelism] {
+    [Symbol(Symbol.toPrimitive)]: [Function (anonymous)]
+  },
+  cpus: [Function: cpus],
+  endianness: [Function: endianness] {
+    [Symbol(Symbol.toPrimitive)]: [Function (anonymous)]
+  },
+  freemem: [Function: getFreeMem] {
+    [Symbol(Symbol.toPrimitive)]: [Function (anonymous)]
+  },
+  getPriority: [Function: getPriority],
+  homedir: [Function: wrappedFn] {
+    withoutStackTrace: [Function: checkError],
+    [Symbol(Symbol.toPrimitive)]: [Function (anonymous)]
+  },
+  hostname: [Function: wrappedFn] {
+    withoutStackTrace: [Function: checkError],
+    [Symbol(Symbol.toPrimitive)]: [Function (anonymous)]
+  },
+  loadavg: [Function: loadavg],
+  networkInterfaces: [Function: networkInterfaces],
+  platform: [Function: platform] {
+    [Symbol(Symbol.toPrimitive)]: [Function (anonymous)]
+  },
+  release: [Function: getOSRelease] {
+    [Symbol(Symbol.toPrimitive)]: [Function (anonymous)]
+  },
+  setPriority: [Function: setPriority],
+  tmpdir: [Function: tmpdir] {
+    [Symbol(Symbol.toPrimitive)]: [Function (anonymous)]
+  },
+  totalmem: [Function: getTotalMem] {
+    [Symbol(Symbol.toPrimitive)]: [Function (anonymous)]
+  },
+  type: [Function: getOSType] {
+    [Symbol(Symbol.toPrimitive)]: [Function (anonymous)]
+  },
+  userInfo: [Function: userInfo],
+  uptime: [Function: wrappedFn] {
+    withoutStackTrace: [Function: checkError],
+    [Symbol(Symbol.toPrimitive)]: [Function (anonymous)]
+  },
+  version: [Function: getOSVersion] {
+    [Symbol(Symbol.toPrimitive)]: [Function (anonymous)]
+  },
+  machine: [Function: getMachine] {
+    [Symbol(Symbol.toPrimitive)]: [Function (anonymous)]
+  },
+  constants: [Object: null prototype] {
+    UV_UDP_REUSEADDR: 4,
+    dlopen: [Object: null prototype] {},
+    errno: [Object: null prototype] {
+      E2BIG: 7,
+      EACCES: 13,
+      EADDRINUSE: 100,
+      EADDRNOTAVAIL: 101,
+      EAFNOSUPPORT: 102,
+      EAGAIN: 11,
+      EALREADY: 103,
+      EBADF: 9,
+      EBADMSG: 104,
+      EBUSY: 16,
+      ECANCELED: 105,
+      ECHILD: 10,
+      ECONNABORTED: 106,
+      ECONNREFUSED: 107,
+      ECONNRESET: 108,
+      EDEADLK: 36,
+      EDESTADDRREQ: 109,
+      EDOM: 33,
+      EEXIST: 17,
+      EFAULT: 14,
+      EFBIG: 27,
+      EHOSTUNREACH: 110,
+      EIDRM: 111,
+      EILSEQ: 42,
+      EINPROGRESS: 112,
+      EINTR: 4,
+      EINVAL: 22,
+      EIO: 5,
+      EISCONN: 113,
+      EISDIR: 21,
+      ELOOP: 114,
+      EMFILE: 24,
+      EMLINK: 31,
+      EMSGSIZE: 115,
+      ENAMETOOLONG: 38,
+      ENETDOWN: 116,
+      ENETRESET: 117,
+      ENETUNREACH: 118,
+      ENFILE: 23,
+      ENOBUFS: 119,
+      ENODATA: 120,
+      ENODEV: 19,
+      ENOENT: 2,
+      ENOEXEC: 8,
+      ENOLCK: 39,
+      ENOLINK: 121,
+      ENOMEM: 12,
+      ENOMSG: 122,
+      ENOPROTOOPT: 123,
+      ENOSPC: 28,
+      ENOSR: 124,
+      ENOSTR: 125,
+      ENOSYS: 40,
+      ENOTCONN: 126,
+      ENOTDIR: 20,
+      ENOTEMPTY: 41,
+      ENOTSOCK: 128,
+      ENOTSUP: 129,
+      ENOTTY: 25,
+      ENXIO: 6,
+      EOPNOTSUPP: 130,
+      EOVERFLOW: 132,
+      EPERM: 1,
+      EPIPE: 32,
+      EPROTO: 134,
+      EPROTONOSUPPORT: 135,
+      EPROTOTYPE: 136,
+      ERANGE: 34,
+      EROFS: 30,
+      ESPIPE: 29,
+      ESRCH: 3,
+      ETIME: 137,
+      ETIMEDOUT: 138,
+      ETXTBSY: 139,
+      EWOULDBLOCK: 140,
+      EXDEV: 18,
+      WSAEINTR: 10004,
+      WSAEBADF: 10009,
+      WSAEACCES: 10013,
+      WSAEFAULT: 10014,
+      WSAEINVAL: 10022,
+      WSAEMFILE: 10024,
+      WSAEWOULDBLOCK: 10035,
+      WSAEINPROGRESS: 10036,
+      WSAEALREADY: 10037,
+      WSAENOTSOCK: 10038,
+      WSAEDESTADDRREQ: 10039,
+      WSAEMSGSIZE: 10040,
+      WSAEPROTOTYPE: 10041,
+      WSAENOPROTOOPT: 10042,
+      WSAEPROTONOSUPPORT: 10043,
+      WSAESOCKTNOSUPPORT: 10044,
+      WSAEOPNOTSUPP: 10045,
+      WSAEPFNOSUPPORT: 10046,
+      WSAEAFNOSUPPORT: 10047,
+      WSAEADDRINUSE: 10048,
+      WSAEADDRNOTAVAIL: 10049,
+      WSAENETDOWN: 10050,
+      WSAENETUNREACH: 10051,
+      WSAENETRESET: 10052,
+      WSAECONNABORTED: 10053,
+      WSAECONNRESET: 10054,
+      WSAENOBUFS: 10055,
+      WSAEISCONN: 10056,
+      WSAENOTCONN: 10057,
+      WSAESHUTDOWN: 10058,
+      WSAETOOMANYREFS: 10059,
+      WSAETIMEDOUT: 10060,
+      WSAECONNREFUSED: 10061,
+      WSAELOOP: 10062,
+      WSAENAMETOOLONG: 10063,
+      WSAEHOSTDOWN: 10064,
+      WSAEHOSTUNREACH: 10065,
+      WSAENOTEMPTY: 10066,
+      WSAEPROCLIM: 10067,
+      WSAEUSERS: 10068,
+      WSAEDQUOT: 10069,
+      WSAESTALE: 10070,
+      WSAEREMOTE: 10071,
+      WSASYSNOTREADY: 10091,
+      WSAVERNOTSUPPORTED: 10092,
+      WSANOTINITIALISED: 10093,
+      WSAEDISCON: 10101,
+      WSAENOMORE: 10102,
+      WSAECANCELLED: 10103,
+      WSAEINVALIDPROCTABLE: 10104,
+      WSAEINVALIDPROVIDER: 10105,
+      WSAEPROVIDERFAILEDINIT: 10106,
+      WSASYSCALLFAILURE: 10107,
+      WSASERVICE_NOT_FOUND: 10108,
+      WSATYPE_NOT_FOUND: 10109,
+      WSA_E_NO_MORE: 10110,
+      WSA_E_CANCELLED: 10111,
+      WSAEREFUSED: 10112
+    },
+    signals: [Object: null prototype] {
+      SIGHUP: 1,
+      SIGINT: 2,
+      SIGQUIT: 3,
+      SIGILL: 4,
+      SIGABRT: 22,
+      SIGFPE: 8,
+      SIGKILL: 9,
+      SIGSEGV: 11,
+      SIGTERM: 15,
+      SIGBREAK: 21,
+      SIGWINCH: 28
+    },
+    priority: [Object: null prototype] {
+      PRIORITY_LOW: 19,
+      PRIORITY_BELOW_NORMAL: 10,
+      PRIORITY_NORMAL: 0,
+      PRIORITY_ABOVE_NORMAL: -7,
+      PRIORITY_HIGH: -14,
+      PRIORITY_HIGHEST: -20
+    }
+  },
+  EOL: '\r\n',
+  devNull: '\\\\.\\nul'
+}
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\modules.js"
+[ 'Eric', 'Mwendwa', 'Linet', 'Emmanuel', 'Grace' ]
+undefined
+win32 C:\Users\BRIGHTGAINScompany
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> git add .
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> git commit -m "modules with demo"
+[master 77d07ab] modules with demo
+ 2 files changed, 11 insertions(+)
+ create mode 100644 demo.js
+ create mode 100644 modules.js
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> git push origin master
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 564 bytes | 51.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/Eric-Devv/NODEJS
+   c0643c4..77d07ab  master -> master
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\files.js"
+<Buffer >
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\files.js"
+Hallo Tech Genius...
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\files.js"
+last line
+Hallo Tech Genius...
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\files.js"
+File was written
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\files.js"
+File was written
+File was written
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\files.js"
+File was written
+File was written
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\files.js"
+folder created
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\files.js"
+[Error: EEXIST: file already exists, mkdir 'C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\assets'] {
+  errno: -4075,
+  code: 'EEXIST',
+  syscall: 'mkdir',
+  path: 'C:\\Users\\BRIGHTGAINScompany\\Desktop\\JAVASCRIPT COMPLETE PROJECTS\\NODE JS\\assets'
+}
+folder created
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\files.js"
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\files.js"
+folder created
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\files.js"
+Folder Deleted
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\files.js"
+folder created
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\files.js"
+Folder Deleted
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\files.js"
+folder created
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\files.js"
+Folder Deleted
+File deleted
+PS C:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS> node "c:\Users\BRIGHTGAINScompany\Desktop\JAVASCRIPT COMPLETE PROJECTS\NODE JS\files.js"
+folder created
